@@ -28,5 +28,5 @@
 </ol>
 
 <h2>Screenshots</h2>
-<img src="./img/img1.jpg" alt="img1">
+<img src="./img/img1.jpg" alt="img1" width="30%">
 <img src="./img/img2.jpg" alt="img2">
